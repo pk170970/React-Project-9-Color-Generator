@@ -3,7 +3,7 @@
 ## 🔗 Links
 
 [Code Link](https://codesandbox.io/s/react-project-9-colorgenerator-forked-gpdrr9) <br>
-[Live](https://pk170970.github.io/csb-gpdrr9/) <br>
+[Live](https://csb-gpdrr9.netlify.app/) <br>
 [Linkedin](https://www.linkedin.com/in/pratyush-kesarwani-2b6601171/)
 
 ## Values JS: used to get array of colors in rgb form with different shades varies with weight.
